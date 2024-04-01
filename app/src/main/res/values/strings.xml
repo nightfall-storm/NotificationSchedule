@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notification Scheduler</string>
+    <string name="seconds">%d seconds</string>
+    <string name="not_set">Not set</string>
+</resources>
